@@ -83,6 +83,9 @@ You should get back:
 }
 ```
 
+You can now also delete you apps programmatically via [DELETE /apps/:app-id](https://wit.ai/docs/http/20170307#delete--apps-:app-id-link)
+
+
 ## Train With Existing Data
 
 Before you start, you may already have an idea of what you want your app to do.
