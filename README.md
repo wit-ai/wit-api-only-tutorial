@@ -378,3 +378,7 @@ This tutorial goes into building an example app, but you easily imagine how to i
 I hope you liked this tutorial. Thank you for being a part of our community. Let us know what you think, and how we can serve you better. Feel free to join the [Facebook group](https://facebook.com/groups/wit-hackers) to meet other like-minded hackers, or ask on our [github support channel](https://github.com/wit-ai/wit/issues) for issues with Wit. If you have ideas for this tutorial, let us know in the [issues](https://github.com/wit-ai/wit-api-only-tutorial/issues) here.
 
 Team Wit
+
+## License
+
+The license for pywit can be found in LICENSE file in the root directory of this source tree.
