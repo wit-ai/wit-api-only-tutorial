@@ -1,3 +1,7 @@
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates. All Rights Reserved.
+ */
+
 const fs = require('fs');
 const fetch = require('node-fetch');
 const {validateSamples} = require('../shared');
